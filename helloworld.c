@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-   printf("Hello, Universe!");
+   printf("Niek zn aanpassingen!");
    return 0;
 }
